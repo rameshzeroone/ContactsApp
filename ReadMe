@@ -1,0 +1,21 @@
+                            Zoho Assignment ContactApp
+-> This App is fully written in Html,css,php. 
+-> In this web based appliaction i have made front end in html,css and backend written in php
+-> to connect from the Database i have used Xampp server to store a data in the backend.
+    To Run this we required a software 
+    1. Notepad++,Brackets, visual studio.
+    2. Xammp server 
+    
+    To Run following steps should be fallowed
+    step1:- Create a signin , sign up and contact page in html,css,php
+    step2:- Download the Xampp and install 
+    step3:- The file of your project should be saved in Localdisk c->Xampp->htdoc
+    step4:- Now click on new->Give Database name-> Click on create the Database name will be created.
+    Step5:- Now in my project i have imported the Database file in xampp , Click on import->Select the Sql file stored->click on create.
+    step6:- The file will be created then go to crome type localhost/myphpadmin
+    step7:- Click on myphpadmin-> To view the Database which is created. Now to run type localhost/file-name in crome and click enter 
+    step8:- The Sign in form will be open fill details if dont have account click on sign up it will take you to next page
+    there you can create a new account then sign in after sign in you will get Contact page fill the details and save then the data will be stored in backend.
+    step9:- If you have forget password then clicking forget password we can change to new password and back to normal sign in page.
+    
+    Thank you 
